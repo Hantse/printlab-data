@@ -1,0 +1,124 @@
+{
+    "colorSet": [
+        {
+            "key": "Traffic Black",
+            "value": "#0F0F0F"
+        },
+        {
+            "key": "Signal Black",
+            "value": "#0F0F0F"
+        },
+        {
+            "key": "Snow White",
+            "value": "#FFFFFF"
+        },
+        {
+            "key": "Zinc Yellow",
+            "value": "#F2F221"
+        }
+    ],
+    "pla": [
+        {
+            "name": "ReFill PLA",
+            "shortName": "ffrfpla",
+            "availableColors": [
+                "Signal Black",
+                "Snow White",
+                "Zinc Yellow"
+            ],
+            "diameter": 1.75,
+            "weights": [
+                {
+                    "capacity": 750,
+                    "price": 15.00
+                },
+                {
+                    "capacity": 2000,
+                    "price": 39.99
+                }
+            ],
+            "printDetails": {
+                "nozzleSize": 0.15,
+                "layerHeight": 0.1,
+                "flowRate": 100,
+                "printTemperature": {
+                    "min": 200,
+                    "max": 230
+                },
+                "printSpeed": "MEDIUM",
+                "retraction": {
+                    "isRetractable": true,
+                    "value": 5
+                },
+                "heatBed": {
+                    "min": 50,
+                    "max": 60
+                },
+                "fanSpeed": {
+                    "min": 50,
+                    "max": 100
+                },
+                "experienceLevel": "BEGINNER"
+            },
+            "link": "https://formfutura.com/product/refill-pla/",
+            "datasheetLink": "https://formfutura.com/datasheets/formfutura-tds-refillpla.pdf",
+            "safetyLink": "https://formfutura.com/datasheets/formfutura-sds-refillpla.pdf"
+        },
+        {
+            "name": "Easy ePLA",
+            "shortName": "ffeepla",
+            "availableColors": [
+                "Traffic Black",
+                "Snow White"
+            ],
+            "diameter": 1.75,
+            "weights": [
+                {
+                    "capacity": 250,
+                    "price": 9.99
+                },
+                {
+                    "capacity": 1000,
+                    "price": 19.99
+                },
+                {
+                    "capacity": 2300,
+                    "price": 45.99
+                },
+                {
+                    "capacity": 4500,
+                    "price": 89.95
+                },
+                {
+                    "capacity": 8000,
+                    "price": 159.95
+                }
+            ],
+            "printDetails": {
+                "nozzleSize": 0.1,
+                "layerHeight": 0.05,
+                "printTemperature": {
+                    "min": 200,
+                    "max": 220
+                },
+                "printSpeed": "MEDIUM",
+                "retraction": {
+                    "isRetractable": true,
+                    "value": 5
+                },
+                "heatBed": {
+                    "min": 50,
+                    "max": 60
+                },
+                "fanSpeed": {
+                    "min": 50,
+                    "max": 100
+                },
+                "experienceLevel": "BEGINNER"
+            },
+            "link": "https://formfutura.com/product/easyfil-epla/",
+            "datasheetLink": "https://formfutura.com/datasheets/formfutura-tds-easyfilepla.pdf",
+            "safetyLink": "https://formfutura.com/datasheets/formfutura-sds-easyfilepla.pdf"
+        }
+    ]
+}
