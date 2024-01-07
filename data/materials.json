@@ -1,0 +1,74 @@
+{
+    "fdm": [
+        {
+            "name": "PLA",
+            "description": {
+                "fr": "Acide polylactique, biodégradable, facile à utiliser, avec une faible résistance à la chaleur",
+                "en": "Polylactic acid, biodegradable, easy to use, with low heat resistance"
+            }
+        },
+        {
+            "name": "ABS",
+            "description": {
+                "fr": "Acrylonitrile Butadiène Styrène, résistant et avec une meilleure résistance à la chaleur que le PLA",
+                "en": "Acrylonitrile Butadiene Styrene, durable, with better heat resistance than PLA"
+            }
+        },
+        {
+            "name": "PETG",
+            "description": {
+                "fr": "Polyéthylène Téréphtalate Glycol-modifié, combine la facilité d'impression du PLA et la résistance de l'ABS",
+                "en": "Polyethylene Terephthalate Glycol-modified, combines ease of PLA printing with the durability of ABS"
+            }
+        },
+        {
+            "name": "TPU",
+            "description": {
+                "fr": "Polyuréthane thermoplastique, flexible et résistant aux chocs",
+                "en": "Thermoplastic Polyurethane, flexible and impact resistant"
+            }
+        },
+        {
+            "name": "Nylon",
+            "description": {
+                "fr": "Résistant à l'usure et aux produits chimiques, mais difficile à imprimer",
+                "en": "Wear-resistant and chemical resistant, but difficult to print"
+            }
+        },
+        {
+            "name": "PC",
+            "description": {
+                "fr": "Polycarbonate, extrêmement résistant et avec une haute résistance à la chaleur, mais complexe à imprimer",
+                "en": "Polycarbonate, extremely durable and high heat resistant, but complex to print"
+            }
+        },
+        {
+            "name": "PVA",
+            "description": {
+                "fr": "Alcool polyvinylique, souvent utilisé comme matériau de support car il est soluble dans l'eau",
+                "en": "Polyvinyl Alcohol, often used as a support material because it is water soluble"
+            }
+        },
+        {
+            "name": "HIPS",
+            "description": {
+                "fr": "Polystyrène choc à haute impact, similaire à l'ABS et souvent utilisé comme matériau de support",
+                "en": "High Impact Polystyrene, similar to ABS and often used as a support material"
+            }
+        },
+        {
+            "name": "ASA",
+            "description": {
+                "fr": "Acrylonitrile Styrène Acrylate, similaire à l'ABS mais avec une meilleure résistance aux UV et aux intempéries",
+                "en": "Acrylonitrile Styrene Acrylate, similar to ABS but with better UV and weather resistance"
+            }
+        },
+        {
+            "name": "Composite",
+            "description": {
+                "fr": "Matériaux mélangés avec des fibres, tels que le carbone ou le verre, pour améliorer certaines propriétés",
+                "en": "Materials mixed with fibers such as carbon or glass to enhance certain properties"
+            }
+        }
+    ]
+}

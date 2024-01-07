@@ -1,0 +1,8 @@
+[
+    {
+        "name": "Creality K1 Max",
+        "shortName": "ck1m",
+        "description": "K1 Max Printer",
+        "supportedMaterials": ["PLA", "ABS", "PC", "PETG"]
+    }
+]

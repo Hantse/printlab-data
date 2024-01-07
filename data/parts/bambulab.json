@@ -1,0 +1,52 @@
+{
+    "hotends": [
+        {
+            "name": "Hotend with Nozzle - Hardened Steel",
+            "shortName": "hnhs",
+            "type": "Hardened Steel",
+            "availableSize": [
+                0.4,
+                0.6,
+                0.8
+            ],
+            "printers": [
+                "blx1c",
+                "blp1p",
+                "blp1s"
+            ]
+        },
+        {
+            "name": "Hotend with Nozzle - Stainless Steel",
+            "shortName": "hnss",
+            "type": "Stainless Steel",
+            "availableSize": [
+                0.2
+            ],
+            "printers": [
+                "blx1c",
+                "blp1p",
+                "blp1s"
+            ]
+        }
+    ],
+    "externals": [
+        {
+            "name": "AMS - Automatic Material System",
+            "shortName": "ams",
+            "printers": [
+                "blx1c",
+                "blp1p",
+                "blp1s"
+            ]
+        },
+        {
+            "name": "AMS Hub",
+            "shortName": "amsh",
+            "printers": [
+                "blx1c",
+                "blp1p",
+                "blp1s"
+            ]
+        }
+    ]
+}

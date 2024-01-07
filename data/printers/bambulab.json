@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Bambu Lab A1",
+        "shortName": "bla1",
+        "description": "A1 3D Printer",
+        "supportedMaterials": []
+    },
+    {
+        "name": "Bambu Lab A1 Mini",
+        "shortName": "bla1m",
+        "description": "A1 Mini 3D Printer",
+        "supportedMaterials": []
+    },
+    {
+        "name": "Bambu Lab P1S",
+        "shortName": "blp1s",
+        "description": "P1S 3D Printer",
+        "supportedMaterials": []
+    },
+    {
+        "name": "Bambu Lab P1P",
+        "shortName": "blp1p",
+        "description": "P1P 3D Printer",
+        "supportedMaterials": []
+    },
+    {
+        "name": "Bambu Lab X1 Carbon",
+        "shortName": "blx1c",
+        "description": "X1 Carbon 3D Printer",
+        "supportedMaterials": ["PLA", "ABS", "PETG", "PC"]
+    }
+]
